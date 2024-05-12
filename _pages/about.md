@@ -7,7 +7,7 @@ permalink: /about/
 
 Hello! My name is Vivek. I am currently studying Masters in Data Science at Khoury College of Computer Science, Northeastern University, Boston. 
 
-# H1 Background & Bio
+# Background & Bio
 
 I have 4.5 years of experience working in Data Science industry. Most recently, I worked as a Senior Data Analyst at [Demandbase](https://www.demandbase.com), a B2B AdTech SaaS company based out of San Francisco. 
 
