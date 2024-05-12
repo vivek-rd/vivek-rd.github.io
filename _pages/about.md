@@ -5,7 +5,11 @@ author: "Vivek"
 permalink: /about/
 ---
 
-Hello! My name is Vivek. I am currently studying Masters in Data Science at Khoury College of Computer Science, Northeastern University, Boston. I have 4.5 years of experience working in Data Science industry. Most recently, I worked as a Senior Data Analyst at [Demandbase](https://www.demandbase.com), a B2B AdTech SaaS company based out of San Francisco.
+Hello! My name is Vivek. I am currently studying Masters in Data Science at Khoury College of Computer Science, Northeastern University, Boston. 
+
+# H1 Background & Bio
+
+I have 4.5 years of experience working in Data Science industry. Most recently, I worked as a Senior Data Analyst at [Demandbase](https://www.demandbase.com), a B2B AdTech SaaS company based out of San Francisco. 
 
 A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
 
