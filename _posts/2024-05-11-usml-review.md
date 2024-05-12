@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DS 5220 - Unsupervised Machine Learning Course Review"
+title: "DS 5220 - Unsupervised ML Course Review"
 author: "Vivek R"
 tags: Tale
 ---
