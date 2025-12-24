@@ -1,0 +1,23 @@
+baseURL = 'https://vivekwrites.com/'
+languageCode = 'en-us'
+title = 'Vivek R'
+theme = 'hugo-bearblog'
+author = 'Vivek R'
+
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+
+[params]
+    description = 'I write about data engineering, artificial intelligence. I design, build, and maintain large scale data pipelines at work.'
+    favicon = 'images/favicon.jpg'
+    images = ['images/share.jpg']
+
+# Configure markup highlighter to match "Bearblog" aesthetics, see
+# https://gohugo.io/configuration/markup/#highlight
+[markup]
+  [markup.highlight]
+    style = 'friendly'
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
